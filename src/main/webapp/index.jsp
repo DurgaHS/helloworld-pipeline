@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Welcome to devops </h1>
-<p>hi this is durga </p>
+<p>hi this is a sample helloworld pipeline project </p>
 </body>
 </html>
 
