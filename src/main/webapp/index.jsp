@@ -11,8 +11,8 @@
 </style>
 </head>
 <body>
-<h1>Welcome  to devops </h1>
-<p>Welcome  to devops tutorial 2025 </p>
+<h1>Welcome to devops </h1>
+<p>hi this is durga </p>
 </body>
 </html>
 
